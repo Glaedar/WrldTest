@@ -1,0 +1,4 @@
+﻿  WrldTest.cpp
+c:\users\andrew\source\repos\wrldtest\wrldtest\wrldtest.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\andrew\source\repos\wrldtest\wrldtest\wrldtest.cpp(65): warning C4018: '<': signed/unsigned mismatch
+  WrldTest.vcxproj -> C:\Users\Andrew\source\repos\WrldTest\Debug\WrldTest.exe
